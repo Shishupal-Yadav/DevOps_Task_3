@@ -1,10 +1,9 @@
 <html> 
-    <body>
+    <body  bgcolor="aqua">
       <?php
-        $color[A[D[D[D[A[D[D bgcolor="aqua">[B[B[D[D[D[D[D[D[D[D[D[D[D="red";
-        echo"DevOps Assembly Line Task Completed".$color."</br>";
+        $color="red";
+        echo "DevOps Assembly Line Task Completed".$color."</br>";
         print `ifconfig`
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C;
       ?>
    </body>
 </html>
